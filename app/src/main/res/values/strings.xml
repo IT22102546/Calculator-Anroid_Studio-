@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="label_1">Number 01</string>
+    <string name="label_2">Number 02</string>
+    <string name="edt1">23</string>
+    <string name="edt2">12</string>
+    <string name="btnAdd">+</string>
+    <string name="btnminus">-</string>
+    <string name="btnmul">x</string>
+    <string name="btndiv">/</string>
+
+</resources>
